@@ -1,0 +1,72 @@
+Pergunta 1
+Os switches Ethernet tomam a decisão de encaminhamento com base em qual campo do quadro Ethernet?
+
+
+radio_button_unchecked
+FCS
+
+radio_button_unchecked
+Tipo/tamanho
+
+radio_button_unchecked
+Endereço MAC destino
+
+radio_button_unchecked
+SFD (Delimitador de Início de Quadro)
+
+radio_button_unchecked
+Endereço MAC origem
+Enviar
+Mostrar feedback
+Pergunta 2
+Os switches Ethernet adicionam entradas à tabela de endereços MAC com base em qual campo do quadro Ethernet?
+
+
+radio_button_unchecked
+FCS
+
+radio_button_unchecked
+endereço MAC destino
+
+radio_button_unchecked
+Endereço MAC origem
+
+radio_button_unchecked
+Tipo/tamanho
+
+radio_button_unchecked
+SFD (Delimitador de Início de Quadro)
+Enviar
+Mostrar feedback
+Pergunta 3
+Quando um switch recebe um quadro Ethernet e o endereço MAC de destino desse quadro não está em sua tabela de endereços MAC, o switch:
+
+
+radio_button_unchecked
+Encaminha o quadro para todas as portas de saída exceto a porta pela qual recebeu o quadro
+
+radio_button_unchecked
+Adiciona o endereço MAC de origem à tabela
+
+radio_button_unchecked
+Descarta o quadro.
+
+radio_button_unchecked
+Adciiona o endereço MAC de destino à tabela
+Enviar
+Mostrar feedback
+Pergunta 4
+Os hubs Ethernet são considerados:
+
+
+radio_button_unchecked
+um dispositivo sem fio
+
+radio_button_unchecked
+um dispositivo de segurança
+
+radio_button_unchecked
+inovadores
+
+radio_button_unchecked
+Obsoletos
